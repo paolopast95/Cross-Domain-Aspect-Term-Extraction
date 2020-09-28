@@ -20,7 +20,9 @@ Concerning the extraction of aspect terms (Notebook "Aspect_Extraction_from_YELP
 
 You can download the Yelp dataset and the weights from the following links:
 YELP: https://drive.google.com/file/d/1oHmo6pI51RRNQhH5oWVldiOhZ3Octnkh/view?usp=sharing
+
 ELMo weights: https://drive.google.com/file/d/1SzhITFdb2mz6nxt-oDKq5vlGpToD3TST/view?usp=sharing
+
 
 ATTENTION: before loading the weights we need to define the structure of the neural network. We are only saving the weights, not all the model.
 
