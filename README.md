@@ -19,6 +19,7 @@ In the code there are path like "/content/drive/My Drive/..../dataset.csv". Thes
 Concerning the extraction of aspect terms (Notebook "Aspect_Extraction_from_YELP.ipynb"), before extracting aspect terms from yelp dataset and performing sentiment analysis on the atomic sentences, we train a model on all the available datasets. If we don't need to re-train the model, we can skip that phase and load the weights model_weights.weights.
 
 You can download the Yelp dataset and the weights from the following links:
+
 YELP: https://drive.google.com/file/d/1oHmo6pI51RRNQhH5oWVldiOhZ3Octnkh/view?usp=sharing
 
 ELMo weights: https://drive.google.com/file/d/1SzhITFdb2mz6nxt-oDKq5vlGpToD3TST/view?usp=sharing
